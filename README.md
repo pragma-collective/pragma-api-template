@@ -1,4 +1,4 @@
-# 0xStarter API
+# PragmaCollective API Template
 
 Create .env file and add the values for the ff:
 ```
